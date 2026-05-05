@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="./banner.png" alt="Eduardo Villegas GitHub Banner" width="100%" />
+</p>
+
 # Hey there! I'm Eduardo 👋
 
 ### Junior Web Developer in progress | JavaScript | Node.js | Express | EJS | Learning React
