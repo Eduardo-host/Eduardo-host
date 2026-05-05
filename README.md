@@ -50,25 +50,46 @@ I enjoy creating practical applications, working with APIs, and understanding ho
 
 ---
 
+---
+
 ### 📌 Featured Projects
 
-#### 🎮 JavaScript Browser Game
+#### 🎮 Simon Memory Game
 
-A browser-based game built with HTML, CSS and JavaScript.  
-This project helped me practice DOM manipulation, event listeners, game logic, sound effects and deployment with GitHub Pages.
+Classic Simon memory game built with HTML, CSS, JavaScript and jQuery.  
+This project helped me practice game logic, event handling, sound effects, arrays, user interaction and DOM manipulation.
 
 **What I practiced:**
 
-- JavaScript DOM manipulation
-- Event handling
-- Audio handling in the browser
-- Game state and score tracking
-- Git, GitHub and GitHub Pages deployment
+- JavaScript game logic
+- DOM manipulation
+- Event listeners
+- Audio handling
+- Arrays and sequence tracking
+- Git and GitHub workflow
+
+**Tech Used:** HTML, CSS, JavaScript, jQuery
+
+📂 **Repository:** [View Code](https://github.com/Eduardo-host/Simon-game)
+
+---
+
+#### 🎲 Dice Game
+
+A simple dice game built with HTML, CSS and JavaScript.  
+This project helped me practice JavaScript basics, random number generation, DOM updates and conditional logic.
+
+**What I practiced:**
+
+- JavaScript fundamentals
+- Random number generation
+- Conditional statements
+- DOM manipulation
+- Basic UI updates
 
 **Tech Used:** HTML, CSS, JavaScript
 
-🔗 **Live Demo:** Add your GitHub Pages link here  
-📂 **Repository:** Add your repository link here
+📂 **Repository:** [View Code](https://github.com/Eduardo-host/Dice-Game)
 
 ---
 
@@ -89,7 +110,7 @@ The app handles form submissions, validates user input and renders different vie
 
 **Tech Used:** Node.js, Express, EJS, JavaScript
 
-📂 **Repository:** Add your repository link here
+📂 **Repository:** Coming soon
 
 ---
 
@@ -111,7 +132,6 @@ This project connects with my real work experience in a restaurant and helps me 
 **Tech Planned:** HTML, CSS, JavaScript, React, Node.js, Express
 
 📂 **Repository:** Coming soon
-</p>
 
 ---
 
