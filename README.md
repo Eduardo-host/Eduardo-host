@@ -48,35 +48,78 @@ I enjoy creating practical applications, working with APIs, and understanding ho
 
 ---
 
+---
+
 ### 📌 Featured Projects
 
-#### 🎮 JavaScript Game
-A browser game built with HTML, CSS and JavaScript.  
-Practiced DOM manipulation, events, audio handling and deployment with GitHub Pages.
+#### 🎮 JavaScript Browser Game
 
-#### 🧾 Express Form App
-A Node.js and Express project using EJS views, form validation and server-side routing.
+A browser-based game built with HTML, CSS and JavaScript.  
+This project helped me practice DOM manipulation, event listeners, game logic, sound effects and deployment with GitHub Pages.
 
-#### 🍹 Restaurant Menu App
-A visual app idea for restaurant food and drink recipes, including search, descriptions and recipe details.
+**What I practiced:**
+
+- JavaScript DOM manipulation
+- Event handling
+- Audio handling in the browser
+- Game state and score tracking
+- Git, GitHub and GitHub Pages deployment
+
+**Tech Used:** HTML, CSS, JavaScript
+
+🔗 **Live Demo:** Add your GitHub Pages link here  
+📂 **Repository:** Add your repository link here
 
 ---
 
-### 📊 GitHub Stats
+#### 🧾 Express Form Validation App
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-host&show_icons=true&theme=tokyonight" />
+A backend project built with Node.js, Express and EJS.  
+The app handles form submissions, validates user input and renders different views depending on the result.
+
+**What I practiced:**
+
+- Express routes
+- Server-side form validation
+- `req.body` handling
+- EJS views
+- Error messages under form inputs
+- Success page rendering
+- Basic MVC-style organization
+
+**Tech Used:** Node.js, Express, EJS, JavaScript
+
+📂 **Repository:** Add your repository link here
+
+---
+
+#### 🍹 Restaurant Menu & Recipe App
+
+A restaurant-focused app idea designed to help search food and drink items, view descriptions and display recipe details.  
+This project connects with my real work experience in a restaurant and helps me build something practical from a real-life problem.
+
+**What I want to build/practice:**
+
+- Login screen
+- Search menu
+- Food and drink cards
+- Item descriptions
+- Recipe details
+- Clean visual interface
+- Future backend connection
+
+**Tech Planned:** HTML, CSS, JavaScript, React, Node.js, Express
+
+📂 **Repository:** Coming soon
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-host&layout=compact&theme=tokyonight" />
-</p>
+---
 
 ---
 
 ### 🤝 Let's Connect
 
-I'm currently focused on improving my skills and building projects as I grow into a web developer.
+I'm currently building projects, improving my full-stack skills and growing as a web developer.
 
 <p align="left">
   <a href="https://github.com/Eduardo-host">
