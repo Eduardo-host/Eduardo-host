@@ -93,6 +93,32 @@ This project helped me practice JavaScript basics, random number generation, DOM
 
 ---
 
+#### 🛒 Ecommerce Product Card
+
+A clean Nike product card UI built with HTML, CSS and JavaScript.  
+This mini project simulates a simple ecommerce product card with quantity controls, cart interaction, rating stars, and a clear cart feature.
+
+**What I practiced:**
+
+- Product card layout
+- Flexbox alignment
+- CSS hover effects
+- Button styling
+- Cart badge counter
+- Quantity selector with `+` and `-`
+- DOM manipulation
+- JavaScript click events
+- Updating the UI dynamically
+- Git, GitHub and GitHub Pages deployment
+
+**Tech Used:** HTML, CSS, JavaScript
+
+🔗 **Live Demo:** [View Project](https://eduardo-host.github.io/ecommerce-product-card/)  
+📂 **Repository:** [View Code](https://github.com/Eduardo-host/ecommerce-product-card)
+
+
+---
+
 #### 🧾 Express Form Validation App
 
 A backend project built with Node.js, Express and EJS.  
